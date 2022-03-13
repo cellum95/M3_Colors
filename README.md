@@ -1,4 +1,4 @@
-# A PHP Project for Session Color
+# A PHP Project for Form POST Submission of Colors
 
 ## Commits
 
