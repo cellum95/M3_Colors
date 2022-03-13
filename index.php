@@ -8,7 +8,6 @@
     <title>Color Table</title>
     <meta name = "description" content = "A webpage to store colors in PHP Session">
     <link href = "CSS/style.php" rel = "stylesheet" type = "text/css">
-    
 </head>
 <body>
 
